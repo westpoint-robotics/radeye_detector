@@ -1,0 +1,15 @@
+<package>
+  <description brief="radeye_detector">
+
+     radeye_detector
+
+  </description>
+  <author>user1</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/radeye_detector</url>
+  <depend package="rospy"/>
+
+</package>
+
+

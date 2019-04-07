@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="radeye_node" pkg="radeye_detector" type="radeye_node.py" respawn="true" output="screen" />
+
+</launch>
